@@ -27,7 +27,7 @@ sourcetype = json_no_timestamp
 ```
 #### i.e.
 ```
-[script://$SPLUNK_HOME/etc/apps/search/bin/weathergetter.py]
+[script://$SPLUNK_HOME/etc/apps/search/bin/weathergetter/weathergetter.py]
 disabled = false
 host = Jacks-MacBook-Pro-29.local
 index = weathergetter
