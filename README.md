@@ -1,4 +1,4 @@
-#Basic Splunk App
+# Basic Splunk App
 
 ## Using Splunk (Enterprise) to Make a Basic Dashboard That Collects Weather Data (In London in This Case)
 
